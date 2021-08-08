@@ -1,5 +1,5 @@
 <?php
-
+namespace myClasses\animals;
 class Dog
 {
     protected $dog_name;

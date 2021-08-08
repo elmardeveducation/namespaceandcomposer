@@ -1,0 +1,14 @@
+{
+    "name": "autoload/namespacer",
+    "require": {
+
+        "nesbot/carbon": "2.50.*"
+
+    },
+    "autoload": {
+        "psr-4": {
+            "myClasses\\": "myClasses",
+            "\\":
+        }
+    }
+}

@@ -1,5 +1,5 @@
 <?php
-
+namespace myClasses\actions;
 
 class Walk
 {

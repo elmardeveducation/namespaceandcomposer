@@ -1,4 +1,5 @@
 <?php
+namespace myClasses\humans;
 
 class Doctor
 {

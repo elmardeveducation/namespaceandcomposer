@@ -1,6 +1,6 @@
 <?php
 
-namespace actions;
+namespace myClasses\actions;
 
 class Run
 {

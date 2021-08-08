@@ -1,5 +1,5 @@
 <?php
-
+namespace myClasses\cars;
 
 class Sedan
 {
